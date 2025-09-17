@@ -1,8 +1,0 @@
-name: MinecraftLogger
-main: org.dygoz.minecraftLogger.MinecraftLogger
-version: 0.0.6
-api-version: 1.20
-commands:
-  setgeneration:
-    description: Set verified or unverified generation location.
-    usage: /setgeneration <verified|unverified>
