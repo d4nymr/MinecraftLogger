@@ -1,6 +1,0 @@
-org\dygoz\minecraftLogger\listener\PlayerJoinListener.class
-org\dygoz\minecraftLogger\commands\SetGenerationCommand.class
-org\dygoz\minecraftLogger\config\ConfigManager.class
-org\dygoz\minecraftLogger\database\MySQLManager.class
-org\dygoz\minecraftLogger\MinecraftLogger.class
-org\dygoz\minecraftLogger\listener\AutoTeleportListener.class
