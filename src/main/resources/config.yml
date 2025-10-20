@@ -1,9 +1,9 @@
 database:
-  host: "91.227.114.69"
-  port: 3306
-  name: "s442_login_database"
-  user: "u442_Mk05XSadkW"
-  password: "o6@x1Ti2urufj!j2Y.QCJRX."
+  host: ""
+  port: 
+  name: ""
+  user: ""
+  password: ""
 
 spawn:
   verified:
